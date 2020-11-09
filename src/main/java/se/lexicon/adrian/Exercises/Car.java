@@ -17,7 +17,7 @@ public class Car {
         System.out.printf(" ");
         System.out.printf(String.valueOf(motorSize));
         System.out.printf(" ");
-        System.out.printf(vM);
+        System.out.printf(cDN);
 
 
 //+ this.motorSize+ ” can drive now.”);
